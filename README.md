@@ -101,7 +101,7 @@ CLEAR :DATA , TEMP AND VENDOR
 ## SCREENSHOT
 
 ![Screen Shot](https://ibb.co/H4YnhVx)
-![Screen Shot](https://i.pinimg.com/originals/f7/dc/32/f7dc32e579810da20cc50c40565ea19f.gif)
+![Screen Shot](https://in.pinterest.com/pin/1119918632322029098)
 
 ## Roadmap
 
