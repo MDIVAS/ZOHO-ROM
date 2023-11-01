@@ -40,7 +40,7 @@
 ## About The Project
  [![Alt text](https://i9.ytimg.com/vi_webp/uwVby31zlgA/mqdefault.webp?v=6542bedb&sqp=CKj9iqoG&rs=AOn4CLCLhn8whNpEdP4to5WKARMyH0dDuw)](https://youtu.be/uwVby31zlgA)
 
- CLICK ON THE IMAGE TO SEE FULL VIDEO ☝👆
+ CLICK ON THE ABOVE IMAGE TO SEE FULL VIDEO ☝👆
             
 
 
@@ -100,7 +100,7 @@ CLEAR :DATA , TEMP AND VENDOR
 
 ## SCREENSHOT
 
-![Screen Shot](https://i.pinimg.com/564x/72/dc/ac/72dcac4861a0439556ce7dff89951333.jpg)
+![Screen Shot](https://ibb.co/H4YnhVx)
 ![Screen Shot](https://i.pinimg.com/originals/f7/dc/32/f7dc32e579810da20cc50c40565ea19f.gif)
 
 ## Roadmap
