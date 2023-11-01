@@ -38,15 +38,17 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
- [![Alt text](https://img.youtube.com/vi/EAIo6e6k7P4/0.jpg)](https://www.youtube.com/watch?v=EAIo6e6k7P4)
+ [![Alt text](https://i9.ytimg.com/vi_webp/uwVby31zlgA/mqdefault.webp?v=6542bedb&sqp=CKj9iqoG&rs=AOn4CLCLhn8whNpEdP4to5WKARMyH0dDuw)](https://youtu.be/uwVby31zlgA)
 
  CLICK ON THE IMAGE TO SEE FULL VIDEO ☝👆
             
-![Screen Shot](https://i.pinimg.com/236x/ed/a9/d4/eda9d4a33774118e98ecd4950e4adcf2.jpg)
+
+
 
 THIS ROM IS AN OPEN SOURCE BASED  AND IT IS HIGHLY OPTIMIZED  ✨
+THIS ROM IS FULLY CUSTOMIZED WITH CUSTOM ZOHO BOOT LOGO AND MANY MORE
 
-THIS ROM IS BASED ON ANDROID 9 PIE  🥧
+THIS ROM IS BASED ON LATEST ANDROID 14 GSI AND WORKS VERY WELL
 
 THIS ROM DOESNT HAVE ANY BLOATWARE OR ANY VIRUS 🛡
 
@@ -58,15 +60,15 @@ THIS ROM CAN ALSO BE USED ON 1GB RAM PHONE TESTED ✅
 
 THIS ROM SUPPORTS ALL THE ZOHO APPS AND IS TESTED PROPERLY ✅
 
-THIS ROM WILL GET MONTHLY UPDATES AND POSIBILITY FOR AN A13
+THIS ROM HAS DOLBY ATMOS INBUILT 
 
 
 
 ## Built With
 
-THIS ROM IS USING AOSP VERSION OF ANDROID PIE AVAILABE IN ANDROID STUDIO 
+THIS ROM IS USING AOSP VERSION OF ANDROID 14 AVAILABE IN ANDROID DEVELOPERS
 
-* [android 9 VANILLA](https://source.android.com/docs/setup/about/p-release-notes)
+* [android 14 VANNILA](https://developer.android.com/about/versions/14/get)
 
 ## Getting Started
 
@@ -82,7 +84,7 @@ HOW TO INSTALL THIS ROM FOR YOUR ANDROID DEVICE
 
 ### Installation
 
-FIRST OF ALL THE ANDROID 9 LINK WILL BE AVAILABLE SOON
+FIRST OF ALL THE ANDROID 14 LINK WILL BE AVAILABLE SOON
 
 1) FIRST UNLOCK YOUR BOOTLOADER 
 FOLLOW THE TUTORIALS ON YOUTUBE 
@@ -93,10 +95,10 @@ FLASH ANY ONE
 3) FORMAT THE DEVICE AND IN ADVANCE WIPE 
 CLEAR :DATA , TEMP AND VENDOR 
 
-4)THE FLASH THE ROM AND ENJOY :)
+4)THEN FLASH THE ROM AND ENJOY :)
 
 
-## Usage
+## SCREENSHOT
 
 ![Screen Shot](https://i.pinimg.com/564x/72/dc/ac/72dcac4861a0439556ce7dff89951333.jpg)
 ![Screen Shot](https://i.pinimg.com/originals/f7/dc/32/f7dc32e579810da20cc50c40565ea19f.gif)
@@ -113,7 +115,7 @@ Contributions are what make the open source community such an amazing place to b
 * Create individual PR for each suggestion.
 * Please also read through the [Code Of Conduct](https://github.com/MDIVAS/ZOHO-ROM/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
-### Creating A Pull Request
+
 
 
 
@@ -125,8 +127,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/MDIVAS/ZOHO-
 
 * **MDIVAS** - *HIGH SCHOOL GEEK * - [MDIVAS](https://github.com/MDIVAS) - *EVERYTHING *
 
-## Acknowledgements
-
-* []()
-* []()
-* []()
