@@ -38,8 +38,14 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
- [![Alt text](https://i9.ytimg.com/vi_webp/uwVby31zlgA/mqdefault.webp?v=6542bedb&sqp=CKj9iqoG&rs=AOn4CLCLhn8whNpEdP4to5WKARMyH0dDuw)](https://youtu.be/uwVby31zlgA)
 
+ 
+[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/<uwVby31zlgA>)
+
+ 
+ 
+ 
  CLICK ON THE ABOVE IMAGE TO SEE FULL VIDEO ☝👆
             
 
