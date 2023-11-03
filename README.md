@@ -40,9 +40,7 @@
 ## About The Project
 
  
-[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
-/>](https://youtu.be/uwVby31zlgA)
-
+[![Video](https://img.youtube.com/vi/uwVby31zlgA/maxresdefault.jpg)](https://www.youtube.com/watch?v=uwVby31zlgA)
  
  
  
