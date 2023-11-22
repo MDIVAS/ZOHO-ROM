@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MDIVAS/ZOHO-ROM">
-    <img src="https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif" alt="Logo" width="80" height="80">
+    <img src="https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif" alt="Logo" width="640" height="480">
   </a>
 
   <h3 align="center">ZOHO-ROM ANDROID</h3>
