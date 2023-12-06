@@ -349,7 +349,7 @@ CLEAR :DATA , TEMP AND VENDOR
 <img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/1e674e54-d40d-4b4e-b626-e8ef88d0164d" alt="Logo" width="270" height="480">
 
 
-### --------------------------end --------------------------
+### --------------------------x END x --------------------------
 
 ## Roadmap
 
