@@ -114,7 +114,7 @@ CLEAR :DATA , TEMP AND VENDOR
 ![Screenshot_20231102-021931_Android System](https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/09decec3-838f-47f3-a735-1363c262a415)
 ![Screenshot_20231102-021946_Dolby Atmos](https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/1e674e54-d40d-4b4e-b626-e8ef88d0164d)
 
-
+<img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/142993ce-e406-4140-84c2-bc6f852dc794" alt="Logo" width="540" height="960">
 
 
 
