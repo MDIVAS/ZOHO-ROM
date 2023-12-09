@@ -47,7 +47,7 @@
  
 Click on the above image to see the FULL VIDEO ☝👆
             
-### ------------------------------------------------------------------------------------------------------------
+
 
 ####  AN OPEN SOURCE BASED ROM  WHICH  IS HIGHLY OPTIMIZED  ✨
 
@@ -112,249 +112,20 @@ CLEAR :DATA , TEMP AND VENDOR
 
 
 
-###  --------------------------
 <img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/142993ce-e406-4140-84c2-bc6f852dc794" alt="Logo" width="270" height="480">
-
-
-
-
-
-
-###  --------------------------
-
-
-
-
-
-
-
-<img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/c865b6cd-de02-46e1-ad1e-6abf56fbf639" alt="Logo" width="270" height="480">
-
-
-
-
-
-
-
-
-
-
-
-### --------------------------
-
-
-
-
-
-
-
-
-
-
-<img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/dc4f4aae-67b9-4888-ba39-d5073fd6642e" alt="Logo" width="270" height="480">
-
-
-
-
-
-
-
-
-
-
-
-
-###  --------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ <img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/c865b6cd-de02-46e1-ad1e-6abf56fbf639" alt="Logo" width="270" height="480">
+  <img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/dc4f4aae-67b9-4888-ba39-d5073fd6642e" alt="Logo" width="270" height="480">
 <img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/2534953c-1b0e-43c4-ac0a-4eb220575ea8" alt="Logo" width="270" height="480">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### --------------------------
-
-
-
-
-
-
-
-
-
-<img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/b02985d6-ff1d-47e8-81ca-45e5435b9572" alt="Logo" width="270" height="480">
-
-
-
-
-
-
-
-
-
-
-
-### --------------------------
-
-
-
-
-
-
-
-
-<img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/325221ad-abd8-49cf-a610-ab018affff8c" alt="Logo" width="270" height="480">
-
-
-
-
-
-
-
-
-
-### --------------------------
-
-
-
-
-
-
-
-
+ <img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/b02985d6-ff1d-47e8-81ca-45e5435b9572" alt="Logo" width="270" height="480">
+  <img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/325221ad-abd8-49cf-a610-ab018affff8c" alt="Logo" width="270" height="480">
 <img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/aab2edb2-eab9-4317-bb9f-f9b3a4d1b478" alt="Logo" width="270" height="480">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### --------------------------
-
-
-
-
-
-
-
-
-<img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/eb60b089-289f-417e-aa7e-b15286091ed1" alt="Logo" width="270" height="480">
-
-
-
-
-
-
-
-
-
-
-
-### --------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/e08ed028-0de0-4e33-9c90-b188255492e3" alt="Logo" width="270" height="480">
-
-
-
-
-
-
-
-
-
-
-
-### --------------------------
-
-
-
-
-
-
-
-
+ <img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/eb60b089-289f-417e-aa7e-b15286091ed1" alt="Logo" width="270" height="480">
+  <img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/e08ed028-0de0-4e33-9c90-b188255492e3" alt="Logo" width="270" height="480">
 <img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/09decec3-838f-47f3-a735-1363c262a415" alt="Logo" width="270" height="480">
+ <img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/1e674e54-d40d-4b4e-b626-e8ef88d0164d" alt="Logo" width="270" height="480">
 
 
 
-
-
-
-
-
-
-
-### --------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://github.com/MDIVAS/ZOHO-ROM/assets/127883304/1e674e54-d40d-4b4e-b626-e8ef88d0164d" alt="Logo" width="270" height="480">
-
-
-### --------------------------x END x --------------------------
 
 ## Roadmap
 
